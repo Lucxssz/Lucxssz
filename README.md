@@ -1,4 +1,4 @@
-## Oláa, me chamo Lucas, e atualmente sou estudande de Front-end!
+## Oláa, me chamo Lucas, e atualmente sou estudante de Front-end!
 <div align="center">
   <a href="https://github.com/Lucxssz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucxssz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
