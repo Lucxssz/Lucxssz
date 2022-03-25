@@ -10,7 +10,7 @@
   <!-- <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lucas-pic" height="150" width="350" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/924377515928203345/953427447485972541/a_4c57d4420b6c55e0eb47c7300e7b4218.gif">
+  <img align="right" alt="Lucas-pic" height="150" width="350" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957023804612309002/957023839215312956/2b4619e9f8d058d9eaffc0e7fd430f9a.gif">
   
 </div>
   
